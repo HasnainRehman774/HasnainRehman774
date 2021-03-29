@@ -1,0 +1,120 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.color {
+    color: #7061cb;
+}
+
+.form {
+    background-color: #7061cb;
+    max-width: 70%;
+    margin-left: 180px;
+}
+p{
+    color: white;
+    margin-left: 8px;
+}
+#first{
+    margin-left: 110px;
+    margin-top: 8px;
+
+}
+#last{
+    margin-left: 116px;
+
+
+}
+#days{
+    margin-left: 86px;
+
+
+}
+#email{
+    margin-left: 138px;
+
+}
+#mobile{
+    margin-left: 71px;
+}
+#gender{
+    margin-left: 135px;
+}
+#text{
+    margin-left: 128px;
+}
+#city{
+    margin-left: 169px;
+}
+#pin{
+    margin-left: 136px;
+}
+#state{
+    margin-left: 156px;
+}
+#country{
+    margin-left: 127px;
+}
+#hobbies{
+    margin-left: 134px;
+}
+#hobbies1{
+    margin-left: 210px;
+}
+#table{
+    position: relative;
+    top: -38px;
+    left: 216px;
+    color: white;
+
+}
+.same1{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.same2{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.same3{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.white{
+    background-color: white;
+}
+.align{
+    text-align: center;
+}
+#last1{
+    position: relative;
+    bottom: 35px;
+}
+#courses{
+    margin-left: 98px;
+}
+#submit{
+    margin-left: 50%;
+    position: relative;
+    bottom: 30px;
+}
+#reset{
+    position: relative;
+    bottom: 30px;
+}
+.purple{
+    text-align: center;
+    color: #7061cb;
+}
+.green1{
+    text-align: center;
+    color: green;
+}
+#center1{
+    margin-left: 30%;
+}
